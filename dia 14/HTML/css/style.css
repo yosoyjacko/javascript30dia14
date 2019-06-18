@@ -1,0 +1,13 @@
+html {
+    background: url(https://deerfieldlibrary.org/wp-content/uploads/2016/12/coding-wallpaper.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+  }
+
+  p {
+    text-align: center;
+    color: red;
+    font-size: 80px;
+    font-family: 'Ultra', serif;
+  }
